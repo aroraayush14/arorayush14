@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Python, Django, SQL**
+- 💬 Ask me about **Python, Django, SQL, Networking**
 
 - 📫 How to reach me **aroraayush14@gmail.com**
 
