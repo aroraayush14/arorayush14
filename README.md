@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stock Screener**
 
-- 🌱 I’m currently learning **Big Data Tecnologies**
+- 🌱 I’m currently learning **Big Data Technologies**
 
 - 💬 Ask me about **Python, Django, SQL, Networking**
 
